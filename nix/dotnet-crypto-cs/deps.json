@@ -1,0 +1,42 @@
+[
+  {
+    "pname": "CommunityToolkit.HighPerformance",
+    "version": "8.4.0",
+    "hash": "sha256-q9RZZvLlvk1sXuIr5wdBxyTf9o0G2mk23xtNGDf6vGs="
+  },
+  {
+    "pname": "Microsoft.Build.Tasks.Git",
+    "version": "8.0.0",
+    "hash": "sha256-vX6/kPij8vNAu8f7rrvHHhPrNph20IcufmrBgZNxpQA="
+  },
+  {
+    "pname": "Microsoft.SourceLink.Common",
+    "version": "8.0.0",
+    "hash": "sha256-AfUqleVEqWuHE7z2hNiwOLnquBJ3tuYtbkdGMppHOXc="
+  },
+  {
+    "pname": "Microsoft.SourceLink.GitLab",
+    "version": "8.0.0",
+    "hash": "sha256-p++5wXeIj5UuqMiLxXFPyDxkrzK3D7CAoTI7jTIjOXM="
+  },
+  {
+    "pname": "Roslynator.Analyzers",
+    "version": "4.12.10",
+    "hash": "sha256-F2z7k2MpiIslo4trWs6V9sb0b1GjyVbCCnW2XCiid/0="
+  },
+  {
+    "pname": "StyleCop.Analyzers",
+    "version": "1.2.0-beta.556",
+    "hash": "sha256-97YYQcr5vZxTvi36608eUkA1wb6xllZQ7UcXbjrYIfU="
+  },
+  {
+    "pname": "StyleCop.Analyzers.Unstable",
+    "version": "1.2.0.556",
+    "hash": "sha256-aVop7a9r+X2RsZETgngBm3qQPEIiPBWgHzicGSTEymc="
+  },
+  {
+    "pname": "System.Collections.Immutable",
+    "version": "9.0.1",
+    "hash": "sha256-23od93P7QHRzlL5NtKNUDujiYGeXRkkw7lXkyN4zOGY="
+  }
+]
