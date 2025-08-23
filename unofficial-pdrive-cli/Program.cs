@@ -16,11 +16,11 @@ public sealed class Program
         _loggerFactory = loggerFactory;
     }
 
-    public static Task<int> Main(string[] argv)
+    public static async Task<int> Main(string[] argv)
     {
         using var loggerFactory = LoggerFactory.Create(builder => builder.AddConsole());
         var program = new Program(loggerFactory);
-        return program.Run(argv);
+        return await program.Run(argv);
     }
 
     public async Task<int> Run(string[] argv)
